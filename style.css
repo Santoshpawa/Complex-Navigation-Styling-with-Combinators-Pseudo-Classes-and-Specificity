@@ -1,0 +1,38 @@
+div{
+    text-align: center;
+    border: 1px solid;
+    margin-bottom: 5px;
+}
+
+.one a{
+    font-size: 20px;
+    margin-right: 30px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:greenyellow
+}
+
+.two a{
+    font-size: 20px;
+    margin-right: 30px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(47, 255, 193);
+}
+
+.three a{
+  font-size: 20px;
+    margin-right: 30px;
+    text-decoration: none;
+    color: rgb(154, 47, 255);
+}
+
+a:hover{
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+a:active{
+  color:black;
+  background-color: white;
+}
